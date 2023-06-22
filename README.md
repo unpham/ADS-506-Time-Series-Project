@@ -4,9 +4,9 @@
 
 1. Clone the repository to your local machine.
 
-2. Open a command line interface and navigate to the directory of the API folder within the cloned repository.
+2. Open a command line interface and navigate to the directory the cloned repository.
 
-3. Ensure that all dependencies are installed. The following dependencies are required if not use `pip install fastapi pickle Jinja2 uvicorn`
+3. Ensure that all dependencies are installed. The following dependencies are required. 
 
 4. Run the following command to start the local server: `uvicorn main:app --reload`
 5. Once the server is running, open your web browser and enter the following URL: http://127.0.0.1:8000
