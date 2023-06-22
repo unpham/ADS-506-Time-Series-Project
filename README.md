@@ -12,11 +12,13 @@
 5. Once the server is running, open your web browser and enter the following URL: http://127.0.0.1:8000
 6. You will be directed to the API application interface. To analyze reviews, follow these steps:
      Enter the reviews in the input field provided. The reviews should be in the following format:
+          <pre>
           Review 1
-          ```---```
+          ---
           Review 2
-          ```---```
+          ---
           Review n
+          </pre>
      Ensure that there are at least 10 reviews for accurate analysis.
      Click the "Submit" button to initiate the analysis.
 8. The API will process the reviews and provide the following results:
